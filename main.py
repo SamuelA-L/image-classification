@@ -162,4 +162,5 @@ def predict(path, model):
 
 model = train()
 # model = keras.models.load_model('models/model1')
+
 predict('/home/samuel/Desktop/daisies.jpg', model)
